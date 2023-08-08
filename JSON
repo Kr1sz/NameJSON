@@ -62,6 +62,19 @@
         ]
     },
     {
+        "name": "Living Room",
+        "sound": "Sound 2",
+        "unsplashIDs": [
+            "rYBjSLwrfdU",
+            "zLT3VqWEgOQ",
+            "F84XvXyEYk4",
+            "JIUjvqe2ZHg",
+            "lrk0l9w8rI0",
+            "raxI_EcyfGw",
+            "77JACslA8G0"
+        ]
+    },
+    {
         "name": "Sofa",
         "sound": "Sound 2",
         "unsplashIDs": [
