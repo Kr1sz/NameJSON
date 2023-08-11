@@ -1,5 +1,86 @@
 [
     {
+        "name": "Clock",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "EWAG4dr2ClI",
+            "fTxIv6hytCs",
+            "rgnkCd4rF1A",
+            "1lwqa_hgyeY",
+            "pTb54lkyuNQ",
+            "2YWS62tLATA",
+            "f2xfTOv0p9Y",
+            "dm9EHhIZm-k",
+            "TnjzgonRFPU",
+            "w2JtIQQXoRU"
+        ]
+    },
+    {
+        "name": "Light bulb",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "CzdrRlfRhok",
+            "uH9gcWRCN6s",
+            "uCxUxD7fI4k",
+            "pFukAtB81ZQ",
+            "Vp7zFan8_AQ",
+            "MYXf7tGEntk",
+            "N73oXvNSZPA",
+            "eFoFASAuSgo",
+            "R3AhZjo8uLw",
+            "xkEtD4Stn0I"
+        ]
+    },
+    {
+        "name": "Trash can",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "eswtBKtC_gY",
+            "FoG7PKNYjpM",
+            "MwKhY91v2Dc",
+            "1Iugn-FSIZw",
+            "RkIsyD_AVvc"
+        ]
+    },
+    {
+        "name": "Bucket",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "M5UESy7loBQ",
+            "4uEZdlpp3RQ",
+            "2oZmhj-MZQo",
+            "PyoazzxmZyo",
+            "pBXX2LmzYak",
+            "jnegK_Fkbm4",
+            "ND-5eIFKeiM",
+            "8skNUw3Z1FA",
+            "LVJRzXqbJ1s"
+        ]
+    },
+    {
+        "name": "Mop",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "3hO8igCybds",
+            "POlu6snb-wQ",
+            "BVrJBcmn0EU",
+            "pj-BrFZ9eAA"
+        ]
+    },
+    {
+        "name": "Remote control",
+        "sound": "Sound",
+        "unsplashIDs": [
+            "twTS-ZY6MUE",
+            "pC5eP_RjB9E",
+            "dGK6px_0spc",
+            "rnwO_5kZwx8",
+            "HprPUHnjDgk",
+            "hiGHXVAgpUo",
+            "EOQhsfFBhRk"
+        ]
+    },
+    {
         "name": "Television",
         "sound": "Sound",
         "unsplashIDs": [
@@ -103,7 +184,18 @@
     {
         "name": "Pencil",
         "sound": "Sound",
-        "unsplashIDs": []
+        "unsplashIDs": [
+            "rthxdhNw06M",
+            "Bh2Ccn0lD0I",
+            "49iJ7bzbCoI",
+            "LGvqJubfZV4",
+            "AjcVTjCz310",
+            "sk-QSuSCbNc",
+            "DN3QZoPlQGE",
+            "r4i36eR4g_g",
+            "IXYVzgwr2k0",
+            "nKF2QcKsYx4"
+        ]
     },
     {
         "name": "Coffee mug",
